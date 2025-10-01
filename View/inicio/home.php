@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Inicio - Mi Proyecto</title>
-  <link rel="shortcut icon" type="image/png" href="./View/images/logos/favicon.png" />
-  <link rel="stylesheet" href="./View/css/styles.min.css" />
+  <link rel="shortcut icon" type="image/png" href="../images/logos/favicon.png" />
+  <link rel="stylesheet" href="../css/styles.min.css" />
 </head>
 
 <body>
@@ -17,7 +17,7 @@
     <!-- Navbar -->
     <header class="py-3 bg-light d-flex justify-content-between px-4 align-items-center">
       <a href="home.php" class="logo d-flex align-items-center">
-        <img src="./View/images/logos/logo.svg" alt="" height="40">
+        <img src="../images/logos/logo.svg" alt="" height="40">
         <span class="ms-2 fw-bold">Mi Proyecto</span>
       </a>
       <nav>
